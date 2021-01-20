@@ -6,4 +6,6 @@
 6. Push kembali
 
 - Auzan Assidqi
+- Rendy Artha
 - Faayakhun Ramadhan
+
