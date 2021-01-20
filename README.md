@@ -10,3 +10,4 @@
 - Febian Odja
 - Faayakhun Ramadhan
 - Dendy Aprilianza
+- Rendy Artha
