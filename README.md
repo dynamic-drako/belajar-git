@@ -6,9 +6,6 @@
 6. Push kembali
 
 - Auzan Assidqi
-<<<<<<< HEAD
 - Yoshi Dharman
-=======
 - Febian Odja
->>>>>>> 12ceb487ee8e192518e0db99f34a66e3f4fe22f8
 - Faayakhun Ramadhan
