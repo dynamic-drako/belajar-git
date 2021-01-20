@@ -11,4 +11,5 @@
 - Faayakhun Ramadhan
 - Dendy Aprilianza
 - Rendy Artha
-- Suryanto 
+- Suryanto
+- Brian Rahmarela
